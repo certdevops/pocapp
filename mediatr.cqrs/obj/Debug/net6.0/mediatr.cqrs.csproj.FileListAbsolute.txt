@@ -1,0 +1,15 @@
+D:\Projects\TMS\PoC\API\mediatr.cqrs\bin\Debug\net6.0\mediatr.cqrs.deps.json
+D:\Projects\TMS\PoC\API\mediatr.cqrs\bin\Debug\net6.0\mediatr.cqrs.dll
+D:\Projects\TMS\PoC\API\mediatr.cqrs\bin\Debug\net6.0\mediatr.cqrs.pdb
+D:\Projects\TMS\PoC\API\mediatr.cqrs\bin\Debug\net6.0\core.db.dll
+D:\Projects\TMS\PoC\API\mediatr.cqrs\bin\Debug\net6.0\core.db.pdb
+D:\Projects\TMS\PoC\API\mediatr.cqrs\obj\Debug\net6.0\mediatr.cqrs.csproj.AssemblyReference.cache
+D:\Projects\TMS\PoC\API\mediatr.cqrs\obj\Debug\net6.0\mediatr.cqrs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TMS\PoC\API\mediatr.cqrs\obj\Debug\net6.0\mediatr.cqrs.AssemblyInfoInputs.cache
+D:\Projects\TMS\PoC\API\mediatr.cqrs\obj\Debug\net6.0\mediatr.cqrs.AssemblyInfo.cs
+D:\Projects\TMS\PoC\API\mediatr.cqrs\obj\Debug\net6.0\mediatr.cqrs.csproj.CoreCompileInputs.cache
+D:\Projects\TMS\PoC\API\mediatr.cqrs\obj\Debug\net6.0\mediatr.cqrs.csproj.CopyComplete
+D:\Projects\TMS\PoC\API\mediatr.cqrs\obj\Debug\net6.0\mediatr.cqrs.dll
+D:\Projects\TMS\PoC\API\mediatr.cqrs\obj\Debug\net6.0\refint\mediatr.cqrs.dll
+D:\Projects\TMS\PoC\API\mediatr.cqrs\obj\Debug\net6.0\mediatr.cqrs.pdb
+D:\Projects\TMS\PoC\API\mediatr.cqrs\obj\Debug\net6.0\ref\mediatr.cqrs.dll

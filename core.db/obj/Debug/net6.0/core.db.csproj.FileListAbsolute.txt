@@ -1,0 +1,12 @@
+D:\Projects\TMS\PoC\API\core.db\bin\Debug\net6.0\core.db.deps.json
+D:\Projects\TMS\PoC\API\core.db\bin\Debug\net6.0\core.db.dll
+D:\Projects\TMS\PoC\API\core.db\bin\Debug\net6.0\core.db.pdb
+D:\Projects\TMS\PoC\API\core.db\obj\Debug\net6.0\core.db.csproj.AssemblyReference.cache
+D:\Projects\TMS\PoC\API\core.db\obj\Debug\net6.0\core.db.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TMS\PoC\API\core.db\obj\Debug\net6.0\core.db.AssemblyInfoInputs.cache
+D:\Projects\TMS\PoC\API\core.db\obj\Debug\net6.0\core.db.AssemblyInfo.cs
+D:\Projects\TMS\PoC\API\core.db\obj\Debug\net6.0\core.db.csproj.CoreCompileInputs.cache
+D:\Projects\TMS\PoC\API\core.db\obj\Debug\net6.0\core.db.dll
+D:\Projects\TMS\PoC\API\core.db\obj\Debug\net6.0\refint\core.db.dll
+D:\Projects\TMS\PoC\API\core.db\obj\Debug\net6.0\core.db.pdb
+D:\Projects\TMS\PoC\API\core.db\obj\Debug\net6.0\ref\core.db.dll
